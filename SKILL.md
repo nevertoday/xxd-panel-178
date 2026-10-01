@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-178
-description: "Create Panel 178 raster artwork: Irregular Silhouette Woodcut Micro-island. Use when the user invokes xxd-panel-178 or requests this specific visual language."
+description: "Create XXD Panel 178 raster artwork: a faithful photograph paired with one tiny diary mark in wobbly olive ink on a nearly blank page. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-178 or asks for this 手账墨记 style."
 ---
 
 # XXD Panel 178
@@ -11,7 +11,7 @@ Read `references/soldier-runtime.md` completely immediately before building ever
 
 ## Panel-specific overlay
 
-Compress the recognisable subject into one irregular silhouette container with nested, layered graphic isomorphism, occupying only 15–25% of the design region. Keep 75–85% clean warm-ivory negative space; allow directional off-centre placement and very few controlled boundary breaks, never dispersed elements. Combine modern Eastern minimalism, fine woodcut lines, symbolic flat shapes and light print grain. Preserve the fixed palette: deep ink navy, layered grey olive/sage greens, tiny vermilion or terracotta accents. Avoid pure black, bright green, large red fields, festival styling, cartoons and 3D. The canonical source is byte-identical to Panel 177; these are equivalent numbered entries, not different styles.
+The transformed design is one tiny diary mark, not a finished illustration or a logo. Keep the subject very small in a large field of breathing whitespace. Draw it with wobbly hand-drawn contours, uneven pressure, repeated strokes and accidental gaps, like a private notebook. Use a quiet single ink, preferably olive, moss or grey-green, on warm paper white. A few handwritten words may sit beside the mark, and they stay lighter than the symbol. Reject a complete scene, a polished icon, bright full colour, smooth vectors and a commercial mascot.
 
 These overlay rules add to `references/soldier-runtime.md`. They never replace the source brief or the family runtime contract.
 

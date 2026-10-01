@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 178"
-  short_description: "Irregular Silhouette Woodcut Micro-island"
+  short_description: "手账墨记：上半保留原照，下半是一枚绿墨手账里的小小记号"
   default_prompt: "Use $xxd-panel-178 to transform my photograph following the complete canonical source brief."

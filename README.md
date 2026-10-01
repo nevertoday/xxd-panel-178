@@ -1,12 +1,14 @@
 <div align="center">
 
-# XXD Panel 178｜异形微岛版画志（同源）
+# XXD Panel 178｜手账墨记
 
 把普通照片重新导演成可独立使用的艺术海报；保留主体记忆点，让材质、构图与留白共同工作。
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
+
+> 原始提示词（五语入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
 ## 16:9 左右双联样张
 
@@ -42,7 +44,7 @@
 
 适合个人摄影整理、独立出版、展览练习和生活方式视觉创作。原图构图普通、背景杂乱或主体偏小，也可以通过删减、重组、裁切和尺度变化重新建立重点，而不是把照片套上滤镜。
 
-15–25%异形视觉岛屿，嵌套同构与克制破框；象牙白留白、墨藏青和灰橄榄绿、极少朱砂橙红。与177原稿完全相同。
+极小手账记号，摇晃的手绘线，橄榄或苔绿单色墨，大片留白。文字只是旁边一句很轻的笔记。
 
 ## 使用窍门
 

@@ -1,12 +1,14 @@
 <div align="center">
 
-# XXD Panel 178｜異形シルエットの版画ミクロ島（同源）
+# XXD Panel 178｜手帳の墨記
 
 日常の写真を独立したアートポスターへ。被写体の記憶点を残し、素材・構図・余白を組み直します。
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
+
+> 原始プロンプト（5言語の入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
 ## 16:9 左右の作例
 
@@ -42,7 +44,7 @@
 
 個人の写真整理、自主出版、展示の習作、ライフスタイルのビジュアルに。平凡な構図、雑然とした背景、小さな被写体も、削減・再配置・切り抜き・尺度の変更によって焦点を作り直せます。単なる写真フィルターではありません。
 
-異形シルエットの版画ミクロ島（同源）
+ごく小さな手帳の印。揺れる手描き線、オリーブか苔色の単色インク、大きな余白。
 
 ## 使い方のコツ
 

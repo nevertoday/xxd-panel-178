@@ -1,12 +1,14 @@
 <div align="center">
 
-# XXD Panel 178｜이형 실루엣 판화 미니 섬 (동일 원문)
+# XXD Panel 178｜수첩 먹기록
 
 일상 사진을 독립적인 아트 포스터로 재연출합니다. 알아볼 수 있는 핵심은 남기고 재료·구도·여백을 다시 설계합니다.
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
+
+> 원본 프롬프트(5개 언어 입구): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
 ## 16:9 좌우 구성 예시
 
@@ -42,7 +44,7 @@
 
 개인 사진 정리, 독립 출판, 전시 습작과 라이프스타일 비주얼에 적합합니다. 평범한 구도, 복잡한 배경, 작은 피사체도 덜어내기·재배열·크롭·크기 변화로 새로운 초점을 만들 수 있습니다. 단순한 사진 필터가 아닙니다.
 
-이형 실루엣 판화 미니 섬 (동일 원문)
+아주 작은 수첩 기호. 흔들리는 손선, 올리브나 이끼색의 단색 잉크, 넓은 여백.
 
 ## 사용 팁
 

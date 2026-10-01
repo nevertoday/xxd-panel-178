@@ -1,12 +1,14 @@
 <div align="center">
 
-# XXD Panel 178｜Irregular Silhouette Woodcut Micro-island
+# XXD Panel 178｜Diary Ink Mark
 
 Redirect an everyday photograph into a standalone art poster, preserving its recognisable core while rethinking material, composition and whitespace.
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
+
+> Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
 ## 16:9 Left–Right Samples
 
@@ -42,7 +44,7 @@ Four further independent sources, different from the 16:9 set, regenerated as co
 
 For personal photography collections, independent publications, exhibition studies and lifestyle visuals. A weak composition, busy background or small subject becomes a starting point for subtraction, rearrangement, cropping and scale changes—not a reason to apply a filter.
 
-Irregular Silhouette Woodcut Micro-island
+One tiny diary mark, wobbly hand-drawn lines, a single olive or moss ink, and a large blank page.
 
 ## Usage tips
 
